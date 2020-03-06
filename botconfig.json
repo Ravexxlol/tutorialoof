@@ -1,0 +1,11 @@
+  
+{
+  "prefix": "$",
+  "logsChannel": "logs",
+  "reportsChannel": "reports",
+
+  "activity": {
+    "streaming": false,
+    "game": "Pewdiepie"
+  }
+}
